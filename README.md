@@ -1,5 +1,3 @@
-[![][mcmod-imagine]][mcmod]
-# Welcome to Nova Comittee!👋
-
-[mcmod-imagine]:https://img.shields.io/badge/MCMOD-Nova%20Committee-green
-[mcmod]:https://www.mcmod.cn/author/26057.html
+<div style="width: 100%;">
+  <img src="static/readme.svg" style="width: 100%;" alt="Nova Committee!">
+</div>
